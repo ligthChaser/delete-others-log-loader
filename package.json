@@ -1,0 +1,16 @@
+{
+  "name": "delete-others-log-loader",
+  "version": "1.0.3",
+  "description": "Deleting someone else's conse.log",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "build": "rollup --config"
+  },
+  "keywords": [],
+  "author": "smeb",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^3.26.2"
+  }
+}
